@@ -1,0 +1,40 @@
+{
+  "name": "apiflash/php-client",
+  "version": "0.0.1",
+  "description": "The official PHP client for ApiFlash.",
+  "homepage": "https://github.com/apiflash/php-client",
+  "keywords": [
+    "api",
+    "puppeteer",
+    "url2image",
+    "url",
+    "convert",
+    "render",
+    "capture",
+    "webpage",
+    "image",
+    "screenshot",
+    "provider",
+    "facade",
+    "screenshots",
+    "urlbox",
+    "browser",
+    "headless",
+    "responsive",
+    "retina",
+    "phantomjs",
+    "laravel",
+    "thumbnail",
+    "website",
+    "preview",
+    "thumbnails"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Timothée Jeannin",
+      "email": "tjeannin@apiflash.com",
+      "role": "Developer"
+    }
+  ]
+}
